@@ -16,7 +16,7 @@ import android.view.MenuItem;
  * a {@link ItemDetailFragment}.
  */
 public class ItemDetailActivity extends FragmentActivity {
-
+// Lampe
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
